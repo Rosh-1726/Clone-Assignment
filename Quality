@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quality-Hygiene</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg ">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <img src="./Assests/logo.png" alt="" class="logo" />
+      </a>
+
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html#home"">Home</a>
+          </li>
+
+          <li class=" nav-item">
+            <a class="nav-link" href="about.html#about">About Us</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="products.html#products">Products</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="#Quality&Hygiene">Quality-Hygiene</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="Contactus.html#Contact-us">Contact us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link order" href="#contact">ORDER NOW</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <section id="Quality&Hygiene" class="section">
+    <div class="about-title">
+      <h2>Quality + Hygiene</h2>
+      <img src="./Assests/2girls.png" alt="" class="two-girls" />
+    </div>
+
+    <div class="QH">
+      <h4 class="QH-Title">Quality Policy</h4>
+      <p class="QH-Para">Our quality check begins right from the moment we choose our raw material. We carefully select
+        and test our raw materials daily at our in-house lab. The entire process of manufacturing is keenly supervised
+        from pre to post production. Utmost care is taken to ensure the guarantee of quality, hygiene, and taste. We
+        have engineered a unique technique and process to fulfill the demand for high quantity production while
+        maintaining the parameters for taste and quality.</p>
+
+      <h4 class="QH-Title">Ingredient Selection</h4>
+      <p class="QH-Para">A standardized process has been installed to keep a check on the selection of the ingredients
+        as we believe that the right ingredients are the most crucial part of the manufacturing. Our suppliers have been
+        providing us with their services for decades and are familiar with the quality requirements for the brand. The
+        ingredients are tested in our in-house lab using contemporary technology to give you the tastiest product.</p>
+
+      <h4 class="QH-Title">Preservation</h4>
+      <p class="QH-Para">Preservation is just as necessary as manufacturing. Both the raw materials and finished
+        products require preservation as it gets distributed from various channels during their shelf life. Our
+        streamlined process helps us with maintaining high levels of product movements on a daily basis. We have adopted
+        some new technologies while maintaining some old tried and tested hard customs to maintain the supply chain of
+        fresh products.</p>
+
+
+      <h4 class="QH-Title">Quality Check</h4>
+      <p class="QH-Para">Quality marks the identity of your product and we learned this early on our way into the
+        business, Thus, we have developed a process to keep a tab on the journey of our products. It begins at the
+        testing of our raw materials and goes beyond providing ITC’s ECF(Elemental Chlorine Free) USA FDA standard paper
+        packing for the finished products.</p>
+
+
+
+
+    </div>
+  </section>
+
+  <footer class="footer">
+
+  <div class="about-us">
+    <h4>About Us</h4>
+    <p>
+      One of the largest sellers of sweets and namkeens with over 100 years of 
+      manufacturing experience. 10 years of consistent taste and quality, 
+      with a promise to continue the same in the coming future.
+    </p>
+  </div>
+
+  <div class="links">
+    <h4>Links</h4>
+    <ul>
+      <li>Home</li>
+      <li>About Us</li>
+      <li>Products</li>
+      <li>Quality & Hygiene</li>
+      <li>Contact Us</li>
+      <li>ORDER NOW</li>
+    </ul>
+  </div>
+
+  <div class="products">
+    <h4>Products</h4>
+    <ul>
+      <li>Pedhe</li>
+      <li>Barfi – Khawa</li>
+      <li>Barfi – Malai</li>
+      <li>Driedfruit Mithai</li>
+      <li>Traditional Mithai</li>
+      <li>Bengali Mithai</li>
+    </ul>
+  </div>
+
+  <div class="contact">
+    <h4>Contact</h4>
+    <p>
+      Kaka Halwai Sweets & Namkeen <br>
+      Survey no. 157, D.P. Road Aundh,<br>
+      Pune-07 <br><br>
+      020-40098393 <br>
+      Info@kakahalwai.co.in
+    </p>
+  </div>
+ 
+
+</footer>
+ <div class="copyright">
+  <p>© 2025 Kaka Halwai. All rights reserved.</p>
+  <p>Website managed by : Bee Logical Software Solutions</p>
+</div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
